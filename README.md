@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - IBM Docker & Kubernetes
 
 ## 📬 Connected with me
-[Email](mailto:milindbhonsalework@gmail.com)
+[Email](mailto:milindbhonsalework@gmail.com) | 
 [LinkedIn](https://www.linkedin.com/in/milind-bhonsale/)
 
 
