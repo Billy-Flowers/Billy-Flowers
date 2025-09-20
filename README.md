@@ -25,9 +25,14 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🚀 Featured Projects  
-- [Full-Stack AI Image Builder](https://github.com/Billy-Flowers/AI-Image-Builder) – AI-powered MERN app with CI/CD, deployed on Render (backend) and Netlify (frontend). 
-- [RAG System with LangChain](https://github.com/Billy-Flowers/RAG-System) –  Retrieval-Augmented Generation for accurate AI answers
+##🏆 Certifications
+- AWS Solutions Architect - Associate
+- IBM Docker & Kubernetes
+
+## 📬 Connected with me
+[Email]: milindbhonsalework@gmail.com
+[LinkedIn]: https://www.linkedin.com/in/milind-bhonsale/
+
 
 <!-- ##📫 Connect with me:  
 [LinkedIn](https://www.linkedin.com/in/milind-bhonsale/) | [Portfolio](https://yourportfolio.com) | [Email](mailto:youremail@domain.com)
