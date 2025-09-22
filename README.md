@@ -13,11 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">👋 Hey there! I'm Milind</h1> 
-💻 Software Engineer | 🌩️ Cloud & Full-Stack Development | 🤖 AI Enthusiast
+
+**💻 Software Engineer | 🌩️ Cloud & Full-Stack Development | 🤖 AI Enthusiast**
+
 Dallas, Texas | 📩 milindbhonsalework@gmail.com
-🎓 MS in Information Technology at UTD (Class of 2025)  
-🌟 Experience in Java, Python, MERN, SQL, and AWS Solutions Architect projects  
-🚀 Passionate about building cloud-native apps, DevOps pipelines, and AI-powered systems  
+
+- 🎓 **Graduated**: MS in **Information and Technology Management** @ **UT Dallas** (Class of 2025)   
+- 🌟 Experience in **Java, Python, MERN, SQL,** and **AWS Solutions Architect projects** 
+- 🚀 Passionate about building **cloud-native apps, DevOps pipelines,** and **AI-powered systems**  
 
 ## 💻 Programming Languages
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
@@ -30,7 +33,7 @@ Dallas, Texas | 📩 milindbhonsalework@gmail.com
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
 ## 🗄️ Databases
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -53,7 +56,12 @@ Dallas, Texas | 📩 milindbhonsalework@gmail.com
 - AWS Solutions Architect - Associate
 - IBM Docker & Kubernetes
 
-## 📬 Connected with me
+## 🚀 Featured Projects
+- **AI Image Builder** - AI-powered image generation platform (MERN Stack + OpenAI API)  
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-blue?style=for-the-badge)](https://imagebuilderai.netlify.app/)
+
+
+## 📬 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milind-bhonsale/)
 
 
