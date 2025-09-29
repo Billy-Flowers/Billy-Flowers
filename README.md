@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ### **Dallas, Texas | 📩 milindbhonsalework@gmail.com**
 
-- 🎓 **Graduated**: MS in **Information and Technology Management** @ **UT Dallas** (Class of 2025)   
-- 🌟 Experience in **Java, Python, MERN, SQL,** and **AWS Solutions Architect projects** 
+- 🎓 **Graduated**: MS in **Information Technology and Management** @ **UT Dallas** (Class of 2025)   
+- 🌟 Experience in **Java, Python, MERN, SQL,** and **AWS** 
 
 
 ## 💻 Tech Stack
