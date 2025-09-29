@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">👋 Hey there! I'm Milind</h1> 
 
-**💻 Software Engineer | 🌩️ Cloud & Full-Stack Development | 🤖 AI Enthusiast**
+### **💻 Software Engineer | Cloud & Full-Stack Development | AI Enthusiast**
 
-Dallas, Texas | 📩 milindbhonsalework@gmail.com
+### **Dallas, Texas | 📩 milindbhonsalework@gmail.com**
 
 - 🎓 **Graduated**: MS in **Information and Technology Management** @ **UT Dallas** (Class of 2025)   
 - 🌟 Experience in **Java, Python, MERN, SQL,** and **AWS Solutions Architect projects** 
-- 🚀 Passionate about building **cloud-native apps, DevOps pipelines,** and **AI-powered systems**  
+
 
 ## 💻 Tech Stack
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
