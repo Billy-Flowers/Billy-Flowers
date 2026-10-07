@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">👋 Hey there! I'm Milind</h1> 
 
-### **💻 Software Engineer | Cloud & Full-Stack Development | AI Enthusiast**
+### **💻 Software Engineer | Cloud & Network Architecture | AI Enthusiast**
 
 ### **Dallas, Texas | 📩 milindbhonsalework@gmail.com**
 
